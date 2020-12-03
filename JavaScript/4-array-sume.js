@@ -42,6 +42,7 @@ function LargestFour(arr) {
 var arr1 = [2,5,1,1,1,6,7];
 var arr2 = [1,1,1,-5];
 var arr3 = [2,2,4,4];
+console.log(arr1);
 console.log(LargestFour(arr1));
 console.log(LargestFour(arr2));
 console.log(LargestFour(arr3));
