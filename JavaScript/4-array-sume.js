@@ -46,6 +46,7 @@ console.log(arr1);
 console.log(LargestFour(arr1));
 console.log(arr2);
 console.log(LargestFour(arr2));
+console.log(arr2);
 console.log(LargestFour(arr3));
   
     
